@@ -1,8 +1,10 @@
 # 🌍 Global Health Analysis Tableau Project
 This Tableau project uses the **Gapminder Health dataset** to explore global health trends across countries, continents, and gender groups. The dashboard includes interactive visuals that provide insights into population distributions, regional health indicators, and gender representation.
 
-## 📊 Visualizations
+### 🎯 Key Skills Demonstrated:
+`Exel` &nbsp;`Data Preparation` &nbsp; `Data Integration Process` &nbsp; `Data Analysis & Interpretation` &nbsp; `Tableau public` &nbsp; `Data Visualisation` &nbsp; `Statistical Insight & Critical Thinking` &nbsp; `Research & Domain Knowledge` &nbsp; 
 
+## 📊 Visualizations
 [Link to my Dashboard](https://public.tableau.com/views/GlobalHealthInsights_17607980567930/GlobalHealthDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
