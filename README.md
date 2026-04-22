@@ -52,5 +52,9 @@ The project uses a cleaned and formatted version of the **Gapminder Health** dat
 
 <img width="1206" height="492" alt="Screenshot 2025-11-20 at 11 33 12" src="https://github.com/user-attachments/assets/f99bff9d-8fc1-45da-b77b-35fdccc32bcd" />
 
+## 🤝 Contact
 
+* [Project created by **EvaRuttkay**.](https://github.com/EvaRuttkay)
+  
+* [Link to LinkedIn](https://www.linkedin.com/in/evaruttkay)
 
